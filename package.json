@@ -28,5 +28,6 @@
   },
   "scripts": {
     "start": "gulp"
-  }
+  },
+  "repository": "git@github.com:webdevsuperfast/divi-boilerplate.git"
 }
